@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.11.0",
+    "dotenv": "^18.0.5",
+    "ejs": "^7.0.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.11.0",
+    "multer": "^2.4.0"
+  },
+  "name": "10-project-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
